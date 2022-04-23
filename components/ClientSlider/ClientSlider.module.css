@@ -1,0 +1,18 @@
+
+@keyframes slide {
+    to {
+        margin-left: -80%;
+    }
+    from {
+        margin-left: 110%;
+    }  
+}
+
+.slidedClient {
+    animation-name: slide;
+    animation-duration: 40s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    position: relative;
+    width: fit-content;
+}
