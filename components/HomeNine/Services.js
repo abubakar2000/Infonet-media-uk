@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 class Services extends Component {
     render() {
@@ -16,7 +17,8 @@ class Services extends Component {
                             <div className="col-lg-4 col-md-6 col-sm-6">
                                 <div className="single-services-box">
                                     <div className="icon">
-                                        <i className="flaticon-digital-marketing"></i>
+                                        {/* <i className="flaticon-digital-marketing"></i> */}
+                                        <img src='/images/abicons/technical-support.png' height={'30pt'} width={'30pt'} alt={''} />
                                     </div>
                                     <h5>
                                         <Link href="/it-and-support">
@@ -37,7 +39,8 @@ class Services extends Component {
                             <div className="col-lg-4 col-md-6 col-sm-6">
                                 <div className="single-services-box">
                                     <div className="icon bg-00aeff">
-                                        <i className="flaticon-research"></i>
+                                        {/* <i className="flaticon-research"></i> */}
+                                        <img src='/images/abicons/It-service-and-support.png' height={'30pt'} width={'30pt'} alt={''} />
                                     </div>
                                     <h5>
                                         <Link href="/computer-services">
@@ -58,7 +61,8 @@ class Services extends Component {
                             <div className="col-lg-4 col-md-6 col-sm-6">
                                 <div className="single-services-box">
                                     <div className="icon bg-f78acb">
-                                        <i className="flaticon-analytics"></i>
+                                        {/* <i className="flaticon-analytics"></i> */}
+                                        <img src='/images/abicons/website-codes.png' height={'30pt'} width={'30pt'} alt={''} />
                                     </div>
                                     <h5>
                                         <Link href="/web-development">
@@ -79,7 +83,8 @@ class Services extends Component {
                             <div className="col-lg-4 col-md-6 col-sm-6">
                                 <div className="single-services-box">
                                     <div className="icon bg-cdf1d8">
-                                        <i className="flaticon-analysis"></i>
+                                        {/* <i className="flaticon-analysis"></i> */}
+                                        <img src='/images/abicons/coding.png' height={'30pt'} width={'30pt'} alt={''} />
                                     </div>
                                     <h5>
                                         <Link href="/web-development">
@@ -100,7 +105,8 @@ class Services extends Component {
                             <div className="col-lg-4 col-md-6 col-sm-6">
                                 <div className="single-services-box">
                                     <div className="icon bg-c679e3">
-                                        <i className="flaticon-mail"></i>
+                                        {/* <i className="flaticon-mail"></i> */}
+                                        <img src='/images/abicons/content-marketing.png' height={'30pt'} width={'30pt'} alt={''} />
                                     </div>
                                     <h5>
                                         <Link href="/digital-marketing">
@@ -121,7 +127,8 @@ class Services extends Component {
                             <div className="col-lg-4 col-md-6 col-sm-6">
                                 <div className="single-services-box">
                                     <div className="icon bg-eb6b3d">
-                                        <i className="flaticon-seo"></i>
+                                        {/* <i className="flaticon-seo"></i> */}
+                                        <img src='/images/abicons/consultation.png' height={'30pt'} width={'30pt'} alt={''} />
                                     </div>
 
                                     <h5>
@@ -135,7 +142,8 @@ class Services extends Component {
                                     <Link href="/it-consultancy">
                                         <a className="read-more-btn">
                                             Learn 
-                                            <i className="flaticon-right-arrow"></i>
+                                            {/* <i className="flaticon-right-arrow"></i> */}
+                                            <img src='/images/abicons/factory.png' height={'30pt'} width={'30pt'} alt={''} />
                                         </a>
                                     </Link>
                                 </div>
@@ -145,6 +153,7 @@ class Services extends Component {
                                 <div className="single-services-box">
                                     <div className="icon bg-00aeff">
                                         <i className="flaticon-seo"></i>
+
                                     </div>
 
                                     <h5>
@@ -167,7 +176,8 @@ class Services extends Component {
                             <div className="col-lg-4 col-md-6 col-sm-6">
                                 <div className="single-services-box">
                                     <div className="icon bg-f78acb">
-                                        <i className="flaticon-seo"></i>
+                                        {/* <i className="flaticon-seo"></i> */}
+                                        <img src='/images/abicons/graphic-design.png' height={'30pt'} width={'30pt'} alt={''} />
                                     </div>
 
                                     <h5>
@@ -189,7 +199,8 @@ class Services extends Component {
                             <div className="col-lg-4 col-md-6 col-sm-6">
                                 <div className="single-services-box">
                                     <div className="icon bg-cdf1d8">
-                                        <i className="flaticon-seo"></i>
+                                        {/* <i className="flaticon-seo"></i> */}
+                                        <img src='/images/abicons/dashboard.png' height={'30pt'} width={'30pt'} alt={''} />
                                     </div>
 
                                     <h5>
@@ -212,7 +223,8 @@ class Services extends Component {
                             <div className="col-lg-4 col-md-6 col-sm-6">
                                 <div className="single-services-box">
                                     <div className="icon bg-c679e3">
-                                        <i className="flaticon-seo"></i>
+                                        {/* <i className="flaticon-seo"></i> */}
+                                        <img src='/images/abicons/database-storage.png' height={'30pt'} width={'30pt'} alt={''} />
                                     </div>
 
                                     <h5>
@@ -234,7 +246,8 @@ class Services extends Component {
                             <div className="col-lg-4 col-md-6 col-sm-6">
                                 <div className="single-services-box">
                                     <div className="icon bg-eb6b3d">
-                                        <i className="flaticon-seo"></i>
+                                        {/* <i className="flaticon-seo"></i> */}
+                                        <img src='/images/abicons/training.png' height={'30pt'} width={'30pt'} alt={''} />
                                     </div>
 
                                     <h5>
@@ -256,7 +269,8 @@ class Services extends Component {
                             <div className="col-lg-4 col-md-6 col-sm-6">
                                 <div className="single-services-box">
                                     <div className="icon bg-00aeff">
-                                        <i className="flaticon-seo"></i>
+                                        {/* <i className="flaticon-seo"></i> */}
+                                        <img src='/images/abicons/antivirus.png' height={'30pt'} width={'30pt'} alt={''} />
                                     </div>
 
                                     <h5>

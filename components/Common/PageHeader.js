@@ -8,7 +8,7 @@ class PageHeader extends Component {
 
         return (
             <>
-                <div style={{paddingTop:'4vh',paddingBottom:'4vh'}}>
+                <div style={{marginTop:'8vh',paddingBottom:'4vh'}}>
                     <div className="d-table">
                         <div className="d-table-cell">
                             <div className="container">

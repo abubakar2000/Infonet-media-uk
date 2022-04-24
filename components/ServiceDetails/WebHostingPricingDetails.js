@@ -69,7 +69,7 @@ class WebHostingPricingDetails extends Component {
                                 </ul>
 
                                 <div className="btn-box">
-                                    <Link href="/contact">
+                                    <Link href="http://hosting.infonetmedia.co.uk/">
                                         <a className="default-btn">
                                             Get Started 
                                             <span></span>
@@ -136,7 +136,7 @@ class WebHostingPricingDetails extends Component {
                                 </ul>
 
                                 <div className="btn-box">
-                                    <Link href="/contact">
+                                    <Link href="http://hosting.infonetmedia.co.uk/">
                                         <a className="default-btn">
                                             Get Started
                                             <span></span>
@@ -204,7 +204,7 @@ class WebHostingPricingDetails extends Component {
                                 </ul>
 
                                 <div className="btn-box">
-                                    <Link href="/contact">
+                                    <Link href="http://hosting.infonetmedia.co.uk/">
                                         <a className="default-btn">
                                             Get Started 
                                             <span></span>
@@ -271,7 +271,7 @@ class WebHostingPricingDetails extends Component {
                                 </ul>
 
                                 <div className="btn-box">
-                                    <Link href="/contact">
+                                    <Link href="http://hosting.infonetmedia.co.uk/">
                                         <a className="default-btn">
                                             Get Started
                                             <span></span>

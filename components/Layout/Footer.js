@@ -19,7 +19,7 @@ class Footer extends Component {
                                             <span>Mon to Fri : 10:00AM - 05:00PM</span>
                                             <span>Saturday : 10:00AM - 02:00PM</span>
                                            
-                                            <a href="tel:(44) 2392297338">(44) 2392297338</a>
+                                            <a href="tel:(44) 2392297338">(44) 753510016</a>
                                         </li>
                                         <li>
                                             <i className="flaticon-email"></i>

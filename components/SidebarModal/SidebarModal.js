@@ -6,7 +6,7 @@ export class SidebarModal extends Component {
     state = {
         modal: false
     };
- 
+
     closeModal = () => {
         this.props.onClick(this.state.modal);
     }
@@ -23,19 +23,19 @@ export class SidebarModal extends Component {
                             </div>
                         </div>
 
-                        
+
 
                         <div className="sidebar-contact-area">
                             <div className="contact-info">
                                 <div className="contact-info-content">
                                     <h2>
                                         <span className="main-color">
-                                        <a href="tel:(44) 2392297338">(44) 2392297338</a>
+                                            <a href="tel:(44) 2392297338">(44) 753510016</a>
                                         </span>
                                         <span className="or">OR</span>
                                         <span><a href="mailto:info@infonetmedia.co.uk">info@infonetmedia.co.uk</a></span>
                                     </h2>
-            
+
                                     <ul className="social">
                                         <li>
                                             <a href="https://www.twitter.com/infonetmedia" target="_blank">

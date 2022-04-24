@@ -52,7 +52,7 @@ export default withRedux(initStore)(
                     </Provider>
                     
                     {/* Preloader */}
-                    <Loader loading={this.state.loading} />
+                    {/* <Loader loading={this.state.loading} /> */}
 
                     {/* Go Top Button */}
                     <GoTop scrollStepInPx="50" delayInMs="16.66" />

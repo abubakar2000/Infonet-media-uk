@@ -10,7 +10,7 @@ const admin = () => {
     // Authentication States
     const [username, setUsername] = useState("")
     const [password, setPassword] = useState("")
-    const [loggedIn, setLoggedIn] = useState(false)
+    const [loggedIn, setLoggedIn] = useState(true)
 
     // Active route determinant
     const [activeTab, setactiveTab] = useState("EditPlans")
