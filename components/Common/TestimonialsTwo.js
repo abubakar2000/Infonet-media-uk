@@ -37,28 +37,31 @@ class TestimonialsTwo extends Component {
         this.state = {
             Testimonials: [
                 {
-                    testimony: "We believe brand interaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication. No fake products and services.",
+                    testimony: `Got my Laptop fixed by the Infonetmedia Team. Did an excellent job. I will recommend Infonetmedia for laptop repairs and computer services.
+                    Excellent customer service.`,
                     image: "/images/client-image/client1.jpg",
-                    name: "Jason Roy",
-                    role: "Manager",
+                    name: "Xio Sung",
+                    role: "Computer Repair",
                 },
                 {
                     testimony: "We believe brand interaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication. No fake products and services.",
                     image: "/images/client-image/client1.jpg",
-                    name: "Rakabuba",
+                    name: "Jon T",
                     role: "Champ",
                 },
                 {
-                    testimony: "We believe brand interaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication. No fake products and services.",
+                    testimony: `Excellent Home IT Support. I had a problem with my home network and laptops not working and I called Infonetmedia and one of their experts visited within the hour to fix the network problem and also fix my laptop. 
+                    Good and trustworthy IT Company. I can recommend Infonetmedia for IT Services and support
+                    `,
                     image: "/images/client-image/client1.jpg",
                     name: "Jason Roy",
-                    role: "Housewife",
+                    role: "IT Services & Support",
                 },
                 {
-                    testimony: "We believe brand interaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication. No fake products and services.",
+                    testimony: `We booked for a new website design and Infonetmedia web development team contact us and we gave the description of what we needed and within 7 days, the website is well designed and I like their professional work and their customer service is one of the best I have ever seen.`,
                     image: "/images/client-image/client1.jpg",
-                    name: "Jason Roy",
-                    role: "Manager",
+                    name: "Adrian K ",
+                    role: "Web Development ",
                 },
                 {
                     testimony: "We believe brand interaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication. No fake products and services.",
@@ -67,10 +70,20 @@ class TestimonialsTwo extends Component {
                     role: "CEO",
                 },
                 {
-                    testimony: "We believe brand interaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication. No fake products and services.",
+                    testimony: `Enjoyable work placement, professional and good work ethics
+                    Wonderful work experience here
+                    Very professional and good people are there in order to help you!
+                    `,
                     image: "/images/client-image/client1.jpg",
-                    name: "Jason Roy",
-                    role: "CEO",
+                    name: "Antonio Bruno",
+                    role: "",
+                },
+                {
+                    testimony: `Infonetmedia hosting services are awesome. Good hosting plans and affordable too. Hosted our site with them and it was a good experience and their hosting team are very friendly and helpful. They also provide 24/7 hosting support which is helpful for us when we get stuck, they always help out and fix our hosting problems.
+                    Good hosting company.`,
+                    image: "/images/client-image/client1.jpg",
+                    name: "LeadHC",
+                    role: "Web Development & Web Hosting",
                 },
             ]
         }

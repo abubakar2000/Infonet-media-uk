@@ -72,7 +72,7 @@ class PricingStyle extends Component {
                                                 }
                                             </ul>
                                             <div className="btn-box">
-                                                <Link href="/contact">
+                                                <Link href="http://hosting.infonetmedia.co.uk/">
                                                     <a className="default-btn">
                                                         Purchase
                                                         <span></span>

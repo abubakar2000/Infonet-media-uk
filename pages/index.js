@@ -31,23 +31,12 @@ class Index8 extends Component {
     render() {
         return (
             <>
-                {/* 
-                
-                Our Loving Clients
-Client Reviews
-Pricing
-Faqs
-Contact Section
-Contact Form Section
-Footer
-                
-                */}
                 <NavbarTwo />
                 <BannerSlider />
                 <HomeBanner />
                 <Services />
                 <Clients />
-                <ClientSlider/>
+                <ClientSlider />
                 <TestimonialsTwo />
                 <PricingStyle />
                 <Faq />
@@ -57,7 +46,8 @@ Footer
 
                 {/* <HomePageServices/> */}
                 <Blog />
-                
+
+                {/* <TestimonialsTwo /> */}
 
                 <Footer />
                 {/* Section for more edit */}
@@ -66,7 +56,6 @@ Footer
                 <Services />
                 <Projects />
                 <FunFacts />
-                <TestimonialsTwo />
                 <PricingStyleFour />
                 <OurTeamTwo />
                 <Faq />
